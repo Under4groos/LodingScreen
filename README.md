@@ -1,4 +1,4 @@
 keys {
-  Space - start / stop 
+  Space - start / stop,
   MouseLeft X2 - this.Close();
 }
